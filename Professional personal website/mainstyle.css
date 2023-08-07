@@ -19,9 +19,12 @@ body{
     
     position: relative;
     top: 70px;
-    width: 40%;
+    width: 300px;
        
 
+}
+.introductoryimg {
+    right: 11px;
 }
 .introductoryp{
     margin: 0;
