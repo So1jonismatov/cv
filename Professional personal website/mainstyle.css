@@ -23,9 +23,6 @@ body{
        
 
 }
-.introductoryimg {
-    right: 11px;
-}
 .introductoryp{
     margin: 0;
     padding-top: 20px;
@@ -92,7 +89,15 @@ body{
     width: 20%;
     float: right;
     margin: 30px 0px 10px 30px;
+    position: relative;
+    top: 64px;
+    left: 55px;
 }
+.it{
+    position: relative;
+    right: 25px;
+}
+
 .gtp{
     width: 50%;
     margin: 30px auto;
